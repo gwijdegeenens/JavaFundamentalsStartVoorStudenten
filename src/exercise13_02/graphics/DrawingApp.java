@@ -1,6 +1,8 @@
 package exercise13_02.graphics;
 public class DrawingApp {
    public static void main(String[] args) {
+      //TODO vervolledig zodat het hoofdprogramma werkt
+      /*
       Drawing drawing = new Drawing();
       
       drawing.add(new Rectangle(5, 6));
@@ -10,7 +12,7 @@ public class DrawingApp {
       }
       
       
-     // drawing.scaleDouble(); //TODO Student fix this
+      drawing.scaleDouble();
       
       
       drawing.scale(60);
@@ -21,5 +23,6 @@ public class DrawingApp {
       System.out.println(drawing.getSize());
       drawing.clear();
       System.out.println(drawing.getSize());
+      */
    }
 }
