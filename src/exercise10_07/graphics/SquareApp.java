@@ -2,7 +2,6 @@ package exercise10_07.graphics;
 
 public class SquareApp {
 	public static void main(String[] args) {
-		/*
 		Square square1 = new Square();
 		Square square2 = new Square(5);
 		Square square3 = new Square(4,6,3);
@@ -23,10 +22,8 @@ public class SquareApp {
 		System.out.println("Number of squares: " + Square.getCount());
 		System.out.println("Number of rectangles: " + Rectangle.getCount());
       System.out.println("Number of rectangles: " + Rectangle.getCount());
-      */
 	}
 
-	/*
 	private static void printSquare(Square square) {
 		System.out.println("X: " + square.getX());
 		System.out.println("Y: " + square.getY());
@@ -34,5 +31,4 @@ public class SquareApp {
 		System.out.println("Area: " + square.getArea());
 		System.out.println("Perimeter: " + square.getPerimeter());
 	}
-	*/
 }
